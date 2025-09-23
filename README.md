@@ -1,4 +1,4 @@
-# AgroConnect Cloud - Smart Agriculture CRM
+# FarmNet Pro - Smart Agriculture CRM
 
 ## 🌾 Project Overview
 A comprehensive Salesforce-based CRM solution for Indian agriculture sector, addressing farmer income stability, government scheme efficiency, and supply chain transparency.
