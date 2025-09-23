@@ -193,6 +193,7 @@ AgriConnect Director
 - **Functional Clarity:** Clear reporting relationships
 - **Data Access:** Higher roles can access subordinate data
 - **Scalable Design:** Easy to add new regions and representatives
+![alt text](image-5.png)
 
 ---
 
@@ -251,7 +252,7 @@ AgriConnect Director
 - **Deliverability:** Enabled for all users
 - **Email-to-Case:** Basic setup for farmer inquiries
 - **Email Templates:** Standard templates for service communication
-
+![alt text](image-6.png)
 ### **6.2 Basic Email Templates**
 
 **Template Creation Steps:**
@@ -261,10 +262,13 @@ AgriConnect Director
 
 **Standard Email Templates:**
 - **Service Visit Confirmation:** Confirm scheduled farm visits
+![alt text](image-7.png)
 - **Follow-up Reminder:** Remind farmers about recommended services
+![alt text](image-8.png)
 - **Seasonal Advisory:** Share seasonal agricultural advice and tips
+![alt text](image-9.png)
 - **Service Completion:** Confirm completed services and next steps
-
+![alt text](image-10.png)
 ---
 
 ## **7. MOBILE APP CONFIGURATION**
