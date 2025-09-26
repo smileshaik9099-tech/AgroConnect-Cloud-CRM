@@ -85,7 +85,7 @@ Setup → Quick Find → "Object Manager" → Create → Custom Object
    - **Display Format:** Farmer-{0000}
 5. **Object Features:** Enable Reports, Activities, Search, History Tracking
 6. **Save Object:** Apply farmer object configuration
-
+![alt text](image-11.png)
 **📸 Screenshot Instructions:**
 - **Navigate:** Setup → Object Manager → Farmer__c → Details
 - **Action:** After creating Farmer object, capture screenshot
@@ -143,7 +143,7 @@ Setup → Object Manager → Farmer__c → Fields & Relationships → New
    - **Related To:** Account
    - **Description:** Link to farmer's account record
 3. **Required:** Make field required
-
+![alt text](image-12.png)
 **📸 Screenshot Instructions:**
 - **Navigate:** Object Manager → Farmer__c → Fields & Relationships
 - **Action:** After creating all fields, capture screenshot
@@ -171,7 +171,7 @@ Setup → Object Manager → Create → Custom Object
 3. **Record Name:** Crop Season-{0000}
 4. **Features:** Enable Reports, Activities, Search
 5. **Save Configuration:** Apply crop season object settings
-
+![alt text](image-13.png)
 **📸 Screenshot Instructions:**
 - **Navigate:** Setup → Object Manager → Crop_Season__c → Details
 - **Action:** After creating object, capture screenshot
